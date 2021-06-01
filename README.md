@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer Genç
-- 👀 I’m interested in C/VHDL/PYTHON 
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C/C++/VHDL/PYTHON 
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: omergnc1+github@gmail.com
 
 <!---
