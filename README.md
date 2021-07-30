@@ -2,7 +2,7 @@
 <h3 align = "center">A Software Developer from Istanbul/Turkey</h3>
 
 - 🌱 I’m currently learning **Bootstrap, .NET Core, Javascript**
-- 📝 My personal page [here](https://omer-genc.github.io/my-web-page/)
+- 📝 My personal page [here](https://omer-genc.github.io/my-web-page/) (coming soon)
 - 📫 How to reach me: omergnc1@gmail.com
 
 ### Connect with me:
