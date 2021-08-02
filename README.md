@@ -14,7 +14,7 @@
 
 <h3>Technologies:</h3>
 <!-- c# -->
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/c%23.png" alt="csharp"  height="30"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/csharp.png" alt="csharp"  height="30"/> </a>
 <!-- C -->
 <a href="https://en.wikipedia.org/wiki/C_programming_language" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/c.png" alt="C"  height="30"/> </a>
 <!-- c++ -->
@@ -27,6 +27,8 @@
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/bootstrap.png" alt="bootstrap"  height="30"/> </a>
 <!-- python -->
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/python.png" alt="python"  height="30"/> </a>
+<!-- git -->
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/git.png" alt="git"  height="30"/> </a>
 
 <h3>Tools:</h3>
 <!-- vscode -->
