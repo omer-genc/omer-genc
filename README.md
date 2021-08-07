@@ -1,8 +1,8 @@
 <h1 align = "center"> 👋 Hi, I’m Ömer Genç </h1>
 <h3 align = "center">A Software Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **Bootstrap, .NET Core, Javascript**
-- 📝 My personal page [here](https://omer-genc.github.io/my-web-page/) (coming soon)
+- 🌱 I’m currently learning **Javascript**
+- 📝 My personal page [https://omer-genc.github.io/my-web-page/](https://omer-genc.github.io/my-web-page/)
 - 📫 How to reach me: omergnc1@gmail.com
 
 ### Connect with me:
