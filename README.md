@@ -39,6 +39,8 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/discord.png" alt="discord"  height="30"/> </a>
 
 <h3>statistics</h3>
+<!-- ziyaretçi -->
+<img alt="ziyaretçi" src="https://komarev.com/ghpvc/?username=omer-genc&style=flat&color=red"/>
 <!-- diller -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-genc&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="omer-genc" /></p>
 <!-- yıldızlar -->
