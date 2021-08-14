@@ -1,7 +1,7 @@
 <h1 align = "center"> 👋 Hi, I’m Ömer Genç </h1>
 <h3 align = "center">A Software Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript**, **.Net Core**
 - 📝 My personal page [https://omer-genc.github.io/my-web-page/](https://omer-genc.github.io/my-web-page/)
 - 📫 How to reach me: omergnc1@gmail.com
 
@@ -25,8 +25,12 @@
 <a href="https://tr.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/css.png" alt="css"  height="30"/> </a>
 <!-- bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/bootstrap.png" alt="bootstrap"  height="30"/> </a>
+<!-- javascript -->
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/javascript.png" alt="javascript"  height="30"/> </a>
 <!-- python -->
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/python.png" alt="python"  height="30"/> </a>
+<!-- postgresql -->
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/postgresql.png" alt="postgresql"  height="30"/> </a>
 <!-- git -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/git.png" alt="git"  height="30"/> </a>
 
