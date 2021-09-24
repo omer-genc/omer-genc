@@ -27,6 +27,8 @@
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/bootstrap.png" alt="bootstrap"  height="30"/> </a>
 <!-- javascript -->
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/javascript.png" alt="javascript"  height="30"/> </a>
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/react.png" alt="react"  height="30"/> </a>
 <!-- python -->
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/python.png" alt="python"  height="30"/> </a>
 <!-- postgresql -->
