@@ -14,10 +14,6 @@
 <h3>Technologies:</h3>
 <!-- c# -->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/csharp.png" alt="csharp"  height="30"/> </a>
-<!-- C -->
-<a href="https://en.wikipedia.org/wiki/C_programming_language" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/c.png" alt="C"  height="30"/> </a>
-<!-- c++ -->
-<a href="https://tr.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/c++.png" alt="C++"  height="30"/> </a>
 <!-- html -->
 <a href="https://tr.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/html.png" alt="html"  height="30"/> </a>
 <!-- css -->
@@ -28,10 +24,6 @@
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/javascript.png" alt="javascript"  height="30"/> </a>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/react.png" alt="react"  height="30"/> </a>
-<!-- python -->
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/python.png" alt="python"  height="30"/> </a>
-<!-- postgresql -->
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/postgresql.png" alt="postgresql"  height="30"/> </a>
 <!-- git -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/omer-genc/omer-genc/main/img/git.png" alt="git"  height="30"/> </a>
 
@@ -48,10 +40,13 @@
 <img alt="ziyaretçi" src="https://komarev.com/ghpvc/?username=omer-genc&style=flat&color=red"/> <a href="https://wakatime.com/@d33da16d-108e-4d0f-b501-bf71ab5946e0"><img src="https://wakatime.com/badge/user/d33da16d-108e-4d0f-b501-bf71ab5946e0.svg" alt="Total time coded since Jul 2 2021" /></a>
 
 <!-- diller -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-genc&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="omer-genc" /></p>
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-genc&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="omer-genc" />
+
+
 <!-- yıldızlar -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-genc&show_icons=true&theme=cobalt&locale=en" alt="omer-genc" width="50%" /></p>
-</p>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-genc&show_icons=true&theme=cobalt&locale=en" alt="omer-genc" width="50%" /></p>
 
 <!---
 omer-genc/omer-genc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
