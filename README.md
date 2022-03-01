@@ -1,7 +1,7 @@
 <h1 align = "center"> 👋 Hi, I’m Ömer Genç </h1>
 <h3 align = "center">A Software Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: omergnc1@gmail.com
 
 ### Connect with me:
@@ -38,17 +38,3 @@
 <h3>statistics</h3>
 <!-- ziyaretçi -->
 <img alt="ziyaretçi" src="https://komarev.com/ghpvc/?username=omer-genc&style=flat&color=red"/> <a href="https://wakatime.com/@d33da16d-108e-4d0f-b501-bf71ab5946e0"><img src="https://wakatime.com/badge/user/d33da16d-108e-4d0f-b501-bf71ab5946e0.svg" alt="Total time coded since Jul 2 2021" /></a>
-
-<!-- diller -->
-
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-genc&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="omer-genc" />
-
-
-<!-- yıldızlar -->
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-genc&show_icons=true&theme=cobalt&locale=en" alt="omer-genc" width="50%" /></p>
-
-<!---
-omer-genc/omer-genc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
