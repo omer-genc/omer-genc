@@ -2,7 +2,7 @@
 <h3 align = "center">A Software Developer from Istanbul/Turkey</h3>
 
 ## Welcome my Github page  
-I’m a Software developer who is highly focused on web technologies.
+I’m a software developer who is highly focused on web technologies.
 
 - 🌱 I’m currently learning Node.js
 - ❓ Ask me about anything related to MERN stack and related technologies
