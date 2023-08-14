@@ -4,7 +4,7 @@
 ## Welcome my Github page  
 I’m a software developer who is highly focused on web technologies.
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Adonis.js
 - ❓ Ask me about anything related to MERN stack and related technologies
 - 📫 How to reach me: omergnc1@gmail.com
 
