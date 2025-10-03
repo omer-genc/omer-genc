@@ -19,7 +19,7 @@ I'm a software developer who is highly focused on web technologies.
 * **Tools & Others:** Docker, Linux
 
 
-## Stats
+## WakaTime Stats
 [![Total time coded since Jul 2 2021](https://wakatime.com/badge/user/d33da16d-108e-4d0f-b501-bf71ab5946e0.svg)](https://wakatime.com/@d33da16d-108e-4d0f-b501-bf71ab5946e0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=omergenc&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=omergenc&layout=compact&langs_count=8&hide_title=true&disable_animations=true)
